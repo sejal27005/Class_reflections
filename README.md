@@ -75,7 +75,7 @@ Conceptual Link to Unit 2:
 	File execution, permissions, and ownership
 	Running and managing background processes
 
- Linux Bootable USB
+- Linux Bootable USB
 We created bootable Linux installations using Ventoy and Rufus tools, learning how to:
 	Format drives to FAT32
 	Use ISO images
@@ -85,14 +85,14 @@ Conceptual Link to Unit 1 and 2:
 	Hardware-software interface during OS loading
 	Running OS from external media
 
-Shell Command Quiz
+- Shell Command Quiz
 We were tested on:
 	Creating/deleting directories
 	Permissions and file access
 	Using grep, find, chmod, nano/pico
 The quiz reinforced memorization and usage of essential Linux commands.
 
-Mass File Operations
+- Mass File Operations
 Using for loops and mv commands, we learned to:
 	Rename multiple files at once
 	Add .txt extensions to all files
@@ -106,7 +106,7 @@ Relevance:
 	Demonstrates power of scripting in Linux
 	Automates redundant manual tasks
 
-Email Tools and Hardware Interfaces
+- Email Tools and Hardware Interfaces
 We discussed:
 	Online tools like Mailchimp for mass communication
 	I/O interfaces in hardware: USB, HDMI, serial/parallel ports
@@ -115,7 +115,7 @@ Conceptual Link to Unit 1:
 	I/O Unit and peripheral communication
 	Software protocols for email, cloud tools
 
-IP Addressing & Networking
+- IP Addressing & Networking
 Learned about:
 	IPv4 and IPv6 addressing
 	DNS, ARP, DHCP
@@ -126,7 +126,7 @@ Conceptual Link to Unit 1:
 	Protocols ensuring reliable communication
 	Real-world example: pinging servers to check latency
 
- Git with WSL
+- Git with WSL
 Worked on Git version control using Linux:
 	Initializing repositories with git init
 	Committing notes created in pico
