@@ -1,21 +1,15 @@
 This journal documents my learning progression in the “Tech for Social Good” course.
 
-Observing Technology in the Environment
+- Observing Technology in the Environment
 We walked through campus observing embedded technologies like CCTV cameras, biometric scanners, access-controlled gates, and digital display boards. We discussed their hardware components (sensors, processors, output displays) and software systems that power them.
 Conceptual Link to Unit 1:
-	Types of computers: Embedded systems and personal computing devices
-	Real-time applications of software in surveillance and automation
-	Introduction to human-computer interaction through UI elements
+Types of computers: Embedded systems and personal computing devices
+Real-time applications of software in surveillance and automation
+Introduction to human-computer interaction through UI elements
 We also used Google Sheets and Gmail scripting to automate email sending—an example of software-based automation aiding communication.
 
-We walked through campus observing embedded technologies like CCTV cameras, biometric scanners, access-controlled gates, and digital display boards. We discussed their hardware components (sensors, processors, output displays) and software systems that power them.
-Conceptual Link to Unit 1:
-	Types of computers: Embedded systems and personal computing devices
-	Real-time applications of software in surveillance and automation
-	Introduction to human-computer interaction through UI elements
-We also used Google Sheets and Gmail scripting to automate email sending—an example of software-based automation aiding communication.
 
-Instruction Execution in CPU & Bus Architecture
+- Instruction Execution in CPU & Bus Architecture
 This class deepened our understanding of how a CPU executes instructions using load-store architecture. We were introduced to:
 	Accumulator: temporary storage in ALU
 	Control signals and data buses
@@ -26,10 +20,10 @@ Conceptual Link to Unit 1:
 	Role of buses: Address Bus (locates data), Data Bus (transfers data)
 	CPU instruction handling using transistor logic (AND/OR gates)
 
-Binary Number Quiz
+- Binary Number Quiz
 We were quizzed on binary arithmetic, conversion, and its role in instruction execution. The quiz tested speed, accuracy, and understanding—cementing the binary-to-hardware relationship.
 
-Installing and Running Linux (WSL)
+- Installing and Running Linux (WSL)
 We installed Windows Subsystem for Linux (WSL), allowing a Linux environment to run within Windows. This introduced us to:
 	Linux kernel and shell interface
 	Installing packages and launching terminals
@@ -40,16 +34,14 @@ Conceptual Link to Unit 2:
 	Importance of open-source ecosystems and software freedom
 
 
-
-
-PowerShell for File Management
+- PowerShell for File Management
 We explored Windows PowerShell to:
 	Create folders (mkdir)
 	Navigate directories (cd)
 	Move, delete, and organize files
 We also practiced separating files (e.g., MP3s, PDFs) using scripts—early exposure to automation via scripting.
 
-Basic Linux Commands & History
+- Basic Linux Commands & History
 We dove deeper into Linux using the shell:
 	ls, rm, ps-aux, mkdir, cd
 	User roles: root, standard user
@@ -62,13 +54,13 @@ Conceptual Link to Unit 2:
 	File system hierarchy
 	Understanding permissions (chmod)
 
-Team Presentations
+- Team Presentations
 We gave short team presentations on: 
 Computer Organization" (referencing the book by Hamcher)
 The presentation serves as an educational introduction to how computers are structured, how they process instructions, and what influences their performance—targeting students or learners in computer science or engineering. It combines theoretical concepts (e.g., CPU equations) with practical examples (e.g., memory hierarchy) and historical context.
 
 
-Advanced Shell Scripting
+- Advanced Shell Scripting
 We learned:
 	How to use pico editor to create .txt files
 	Automating renaming with for loops:
@@ -141,7 +133,7 @@ Worked on Git version control using Linux:
 	Pushing files to GitHub
 This bridged Linux terminal knowledge with software development tools.
 
-Neural Networks (Guest Lecture)
+- Neural Networks (Guest Lecture)
 Expanded on ANN with:
 	Forward pass and activation functions (ReLU, Sigmoid)
 	Loss functions and optimization (Gradient Descent)
