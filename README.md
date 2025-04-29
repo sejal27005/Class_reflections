@@ -1,4 +1,4 @@
-This journal documents my learning progression in the “Tech for Social Good” course, highlighting practical sessions, conceptual learning, and reflective understanding. It links each dated session to core academic units: Unit 1: Software & Hardware Systems, Unit 2: Linux, and Guest Lectures on Artificial Neural Networks.
+This journal documents my learning progression in the “Tech for Social Good” course.
 
 Observing Technology in the Environment
 We walked through campus observing embedded technologies like CCTV cameras, biometric scanners, access-controlled gates, and digital display boards. We discussed their hardware components (sensors, processors, output displays) and software systems that power them.
