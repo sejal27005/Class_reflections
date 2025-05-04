@@ -1,0 +1,4 @@
+We learned: How to use pico editor to create .txt files Automating renaming with for loops:
+
+bash CopyEdit for i in * ; do mv "$i" "$i.txt" ; done File permissions: chmod +x filename Process management: ps-aux, kill Conceptual Link to Unit 2: Importance of shell scripting for automation File execution, permissions, and ownership Running and managing background processes
+
