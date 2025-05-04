@@ -1,0 +1,4 @@
+Saw the CPU’s fetch-decode-execute cycle as a metaphor for human cognition, with the accumulator mirroring working memory and buses resembling urban infrastructure (address bus as postal system, data bus as highways).
+
+Realized that computer architecture solves fundamental organizational problems akin to human societies, just through electrical signals rather than physical logistics.
+Tracing a simple ADD instruction’s path through registers deepened my respect for the precision required in hardware design—each transistor’s state enabling calculations we take for granted.
