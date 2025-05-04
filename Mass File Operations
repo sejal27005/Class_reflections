@@ -1,0 +1,4 @@
+Mass File Operations Using for loops and mv commands, we learned to: Rename multiple files at once Add .txt extensions to all files Execute scripts in a directory for automation Also practiced:
+
+bash CopyEdit chmod +x script.sh Relevance: Demonstrates power of scripting in Linux Automates redundant manual tasks
+
