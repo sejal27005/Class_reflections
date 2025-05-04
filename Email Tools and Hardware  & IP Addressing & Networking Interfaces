@@ -1,0 +1,3 @@
+ We discussed: Online tools like Mailchimp for mass communication I/O interfaces in hardware: USB, HDMI, serial/parallel ports Data transfer modes: synchronous vs asynchronous Conceptual Link to Unit 1: I/O Unit and peripheral communication Software protocols for email, cloud tools
+
+IP Addressing & Networking Learned about: IPv4 and IPv6 addressing DNS, ARP, DHCP How data is split into packets (TCP/IP model) Tools like ping, traceroute Conceptual Link to Unit 1: Data packaging and transmission Protocols ensuring reliable communication Real-world example: pinging servers to check latency
