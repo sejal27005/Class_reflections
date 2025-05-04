@@ -1,0 +1,2 @@
+We dove deeper into Linux using the shell: ls, rm, ps-aux, mkdir, cd User roles: root, standard user Multi-user and multitasking support in Linux We also covered: History of Unix → GNU/Linux Contributions from Linus Torvalds, Richard Stallman Conceptual Link to Unit 2: Linux architecture and core features File system hierarchy Understanding permissions (chmod)
+
