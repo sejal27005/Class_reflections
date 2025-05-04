@@ -1,0 +1,1 @@
+Forward pass and activation functions (ReLU, Sigmoid) Loss functions and optimization (Gradient Descent) Need for non-linearity to solve XOR Splitting data: training, validation, testing Conceptual Connection: Understanding deeper layers in neural networks Limitations of perceptron without hidden layers Foundational for modern AI/ML systems
