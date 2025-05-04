@@ -1,0 +1,1 @@
+We created bootable Linux installations using Ventoy and Rufus tools, learning how to: Format drives to FAT32 Use ISO images Boot Linux outside of Windows Conceptual Link to Unit 1 and 2: System boot process and BIOS/UEFI role Hardware-software interface during OS loading Running OS from external media
